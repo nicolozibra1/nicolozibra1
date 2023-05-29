@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**nicolozibra1/nicolozibra1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Nicolò Zibra
 
-Here are some ideas to get you started:
+I'm a Web Developer Fullstack from :pushpin:Milan(Italy). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm interested in:
+:globe_with_meridians: Web Develompent
+
+
+:art: UX/UI
+
+
+:goal_net: Gaming
+
+
+
+### Programming Languages:
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,vite,nodejs,php,laravel,mysql,ps,xd)](https://skillicons.dev)
